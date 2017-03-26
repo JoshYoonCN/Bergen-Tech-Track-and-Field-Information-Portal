@@ -1,4 +1,4 @@
-<!doctype>
+
 <html>
 <head>
   <title>BT Track Information</title>
